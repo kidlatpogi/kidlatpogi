@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a passionate learner currently diving into the world o
 ## 👨‍💻 About Me
 
 - 🎓 I recently earned my **ITS - Database Certification** from Certiport.
-- 💻 Currently learning through [freeCodeCamp](https://www.freecodecamp.org/kidlat) and building projects as I go.
+- 💻 Currently learning through <a href="https://www.freecodecamp.org/kidlat" target="_blank">freeCodeCamp</a> and building projects as I go.
 - 🔨 I enjoy turning code into clean, responsive web pages.
 - 📚 Always exploring new technologies and improving my skills.
 
@@ -15,11 +15,15 @@ Welcome to my GitHub! I'm a passionate learner currently diving into the world o
 
 ## 🏅 Certifications
 
-- ✅ [**ITS - Database Certification**](https://www.credly.com/badges/ec097417-e36a-4642-b03b-df96919ae380/public_url)  
-  *Issued by Certiport via Credly*  
-  *Date Earned: June 2025*  
 
-  [![ITS Database Badge](https://github.com/kidlatpogi/kidlatpogi/blob/main/assets/certifications/it-specialist-databases.png?raw=true)](https://www.credly.com/badges/ec097417-e36a-4642-b03b-df96919ae380/public_url)
+- ✅ <a href="https://www.credly.com/badges/ec097417-e36a-4642-b03b-df96919ae380/public_url" target="_blank"><strong>ITS - Database Certification</strong></a>  
+  <em>Issued by Certiport via Credly</em>  
+  <em>Date Earned: June 2025</em>  
+
+<a href="https://www.credly.com/badges/ec097417-e36a-4642-b03b-df96919ae380/public_url" target="_blank">
+  <img src="https://github.com/kidlatpogi/kidlatpogi/blob/main/assets/certifications/it-specialist-databases.png?raw=true" 
+       alt="ITS Database Badge" />
+</a>
 
 ---
 
@@ -50,6 +54,6 @@ Welcome to my GitHub! I'm a passionate learner currently diving into the world o
 
 - ✉️ Email: *bautistaangelozeus17@gmail.com*  
 - 🌐 Portfolio: *[Add later when ready]*  
-- 💻 LinkedIn: *www.linkedin.com/in/zeus-angelo-bautista*
+- 💻 LinkedIn: <a href="https://www.linkedin.com/in/zeus-angelo-bautista" target="_blank">zeus-angelo-bautista</a>
 
 Thanks for visiting! Let’s keep learning and building. 🚀
