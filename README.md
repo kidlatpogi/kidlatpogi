@@ -18,7 +18,8 @@ Welcome to my GitHub! I'm a passionate learner currently diving into the world o
 - ✅ [**ITS - Database Certification**](https://www.credly.com/badges/ec097417-e36a-4642-b03b-df96919ae380/public_url)  
   *Issued by Certiport via Credly*  
   *Date Earned: June 2025*  
-  <img src="https://images.credly.com/size/340x340/images/192cbcd1-049f-4dfc-b09f-9ba4f6b09b44/image.png" width="120" alt="ITS Database Badge" />
+
+  [![Credly Badge](https://images.credly.com/size/340x340/images/192cbcd1-049f-4dfc-b09f-9ba4f6b09b44/image.png)](https://www.credly.com/badges/ec097417-e36a-4642-b03b-df96919ae380/public_url)
 
 ---
 
