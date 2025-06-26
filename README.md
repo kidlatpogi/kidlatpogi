@@ -15,14 +15,16 @@ Welcome to my GitHub! I'm a passionate learner currently diving into the world o
 
 ## 🏅 Certifications
 
+## 🏅 Certifications
+
 - ✅ [**ITS - Database Certification**](https://www.credly.com/badges/ec097417-e36a-4642-b03b-df96919ae380/public_url)  
   *Issued by Certiport via Credly*  
   *Date Earned: June 2025*  
 
   <a href="https://www.credly.com/badges/ec097417-e36a-4642-b03b-df96919ae380/public_url" target="_blank">
-    <img src="https://github.com/kidlatpogi/kidlatpogi/blob/main/assets/certifications/it-specialist-databases.png?raw=true" 
-         alt="ITS Database Certificate Badge" 
-         style="max-width: 80px; width: 100%; height: auto;" />
+    <img src="https://github.com/kidlatpogi/kidlatpogi/blob/main/assets/certifications/it-specialist-databases.png?raw=true"
+         alt="ITS Database Certificate Badge"
+         width="70" />
   </a>
 
 ---
