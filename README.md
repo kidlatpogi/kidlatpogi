@@ -21,11 +21,11 @@ Welcome to my GitHub! I'm a passionate learner currently diving into the world o
   *Issued by Certiport via Credly*  
   *Date Earned: June 2025*  
 
-  <a href="https://www.credly.com/badges/ec097417-e36a-4642-b03b-df96919ae380/public_url" target="_blank">
-    <img src="https://github.com/kidlatpogi/kidlatpogi/blob/main/assets/certifications/it-specialist-databases.png?raw=true"
-         alt="ITS Database Certificate Badge"
-         width="120px" />
-  </a>
+<a href="https://www.credly.com/badges/ec097417-e36a-4642-b03b-df96919ae380/public_url" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/192cbcd1-049f-4dfc-b09f-9ba4f6b09b44/image.png"
+       alt="ITS Database Certificate Badge"
+       width="120" />
+</a>
 
 ---
 
@@ -44,7 +44,10 @@ Welcome to my GitHub! I'm a passionate learner currently diving into the world o
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kidlatpogi&show_icons=true&theme=radical" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidlatpogi&layout=compact&theme=radical" width="49%" />
+</div>
+
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidlatpogi&layout=compact&theme=radical" width="49%" />
 </div>
 
 ---
