@@ -15,15 +15,31 @@ Welcome to my GitHub! I'm a passionate learner currently diving into the world o
 
 ## 🏅 Certifications
 
-
 - ✅ <a href="https://www.credly.com/badges/ec097417-e36a-4642-b03b-df96919ae380/public_url" target="_blank"><strong>ITS - Database Certification</strong></a>  
   <em>Issued by Certiport via Credly</em>  
   <em>Date Earned: June 2025</em>  
 
-<a href="https://www.credly.com/badges/ec097417-e36a-4642-b03b-df96919ae380/public_url" target="_blank">
-  <img src="https://github.com/kidlatpogi/kidlatpogi/blob/main/assets/certifications/it-specialist-databases.png?raw=true" 
-       alt="ITS Database Badge" />
-</a>
+<table>
+  <tr>
+    <td width="150" align="center">
+      <a href="https://www.credly.com/badges/ec097417-e36a-4642-b03b-df96919ae380/public_url" target="_blank">
+        <img src="https://github.com/kidlatpogi/kidlatpogi/blob/main/assets/certifications/it-specialist-databases-badge.png?raw=true" 
+             alt="ITS Database Badge" />
+      </a>
+      <br/>
+      <sub><strong>Credly Badge</strong></sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kidlatpogi/kidlatpogi/blob/main/assets/certifications/it-specialist-databases-certificate.png?raw=true" target="_blank">
+        <img src="https://github.com/kidlatpogi/kidlatpogi/blob/main/assets/certifications/it-specialist-databases-certificate.png?raw=true" 
+             alt="ITS Database Certificate" 
+             width="350" />
+      </a>
+      <br/>
+      <sub><strong>Certificate Preview</strong></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -41,11 +57,23 @@ Welcome to my GitHub! I'm a passionate learner currently diving into the world o
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kidlatpogi&show_icons=true&theme=radical" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kidlatpogi&show_icons=true&theme=github_dark" width="49%" />
 </div>
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidlatpogi&layout=compact&theme=radical" width="49%" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidlatpogi&layout=compact&theme=github_dark" width="49%" />
+</div>
+
+---
+
+## 🧾 Developer Card
+
+<div align="center">
+  <a href="https://app.daily.dev/zeusbautista" target="_blank">
+    <img src="https://api.daily.dev/devcards/v2/d6vYD3X0UxN3NFta2gVQy.png?r=2ii&type=wide" 
+         width="652" 
+         alt="Zeus Bautista's Dev Card"/>
+  </a>
 </div>
 
 ---
