@@ -45,8 +45,8 @@ Welcome to my GitHub! I'm a passionate learner currently diving into the world o
 
 ## 📫 Let's Connect
 
-- ✉️ Email: *[Add your email here if you want]*  
+- ✉️ Email: *bautistaangelozeus17@gmail.com*  
 - 🌐 Portfolio: *[Add later when ready]*  
-- 💻 LinkedIn: *[Optional if you want to include it]*
+- 💻 LinkedIn: *www.linkedin.com/in/zeus-angelo-bautista*
 
 Thanks for visiting! Let’s keep learning and building. 🚀
