@@ -19,7 +19,7 @@ Welcome to my GitHub! I'm a passionate learner currently diving into the world o
   *Issued by Certiport via Credly*  
   *Date Earned: June 2025*  
 
-  [![Credly Badge](<img src="https://github.com/kidlatpogi/kidlatpogi/blob/main/assets/certifications/it-specialist-databases.png?raw=true" width="120" alt="ITS Database Certificate" />)
+  [![ITS Database Badge](https://github.com/kidlatpogi/kidlatpogi/blob/main/assets/certifications/it-specialist-databases.png?raw=true)](https://www.credly.com/badges/ec097417-e36a-4642-b03b-df96919ae380/public_url)
 
 ---
 
