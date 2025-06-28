@@ -19,24 +19,40 @@ Welcome to my GitHub! I'm a passionate learner currently diving into the world o
   <em>Issued by Certiport via Credly</em>  
   <em>Date Earned: June 2025</em>  
 
-<table>
+<!-- Badge Table -->
+<table style="border: none; border-collapse: collapse; margin: 0 auto;" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="150" align="center">
-      <a href="https://www.credly.com/badges/ec097417-e36a-4642-b03b-df96919ae380/public_url" target="_blank">
-        <img src="https://github.com/kidlatpogi/kidlatpogi/blob/main/assets/certifications/it-specialist-databases-badge.png?raw=true" 
-             alt="ITS Database Badge" />
-      </a>
+    <td align="center" style="border: none;">
+      <img src="https://github.com/kidlatpogi/kidlatpogi/blob/main/assets/certifications/it-specialist-databases-badge.png?raw=true" 
+           alt="ITS Database Badge" width="150"/>
       <br/>
       <sub><strong>Credly Badge</strong></sub>
+      <br/>
+      <a href="https://www.credly.com/badges/ec097417-e36a-4642-b03b-df96919ae380/public_url" target="_blank">
+        View on Credly
+      </a>
     </td>
-    <td align="center">
+  </tr>
+</table>
+
+<br/>
+
+<!-- Certificates Table -->
+<table style="border: none; border-collapse: collapse; margin: 0 auto;" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" style="border: none;">
       <a href="https://github.com/kidlatpogi/kidlatpogi/blob/main/assets/certifications/it-specialist-databases-certificate.png?raw=true" target="_blank">
         <img src="https://github.com/kidlatpogi/kidlatpogi/blob/main/assets/certifications/it-specialist-databases-certificate.png?raw=true" 
-             alt="ITS Database Certificate" 
-             width="350" />
+             alt="ITS Database Certificate" width="350" />
       </a>
       <br/>
-      <sub><strong>Certificate Preview</strong></sub>
+      <sub><strong>ITS Database Certificate</strong></sub>
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://github.com/kidlatpogi/kidlatpogi/blob/main/assets/certifications/responsive-web-design-certificate.png?raw=true" 
+           alt="Responsive Web Design Certificate" width="400" />
+      <br/>
+      <sub><strong>Responsive Web Design Certificate</strong></sub>
     </td>
   </tr>
 </table>
