@@ -1,15 +1,16 @@
 # 👋 Hi, I'm Kidlat!
 
-Welcome to my GitHub! I'm a passionate learner currently diving into the world of **web development** and **databases**. I enjoy building fun and functional projects using HTML, CSS, and SQL — and I’m always eager to learn more.
+Welcome to my GitHub! I'm a passionate tech enthusiast diving into **web development**, **cloud computing**, and **databases**. I enjoy building practical and responsive web projects while continuously exploring new tools and technologies.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 I recently earned my **ITS - Database Certification** from Certiport.
-- 💻 Currently learning through <a href="https://www.freecodecamp.org/kidlat" target="_blank">freeCodeCamp</a> and building projects as I go.
-- 🔨 I enjoy turning code into clean, responsive web pages.
-- 📚 Always exploring new technologies and improving my skills.
+- 🎓 I earned the **ITS - Database Certification** from Certiport.
+- ☁️ Recently completed the **Cloud Computing** and **Git** certifications via SkillUp by Simplilearn.
+- 💻 Actively learning at <a href="https://www.freecodecamp.org/kidlat" target="_blank">freeCodeCamp</a> and building projects as I grow.
+- 🔨 I love turning code into clean, user-friendly designs using HTML, CSS, and more.
+- 📚 Always curious — from web dev to cloud systems and beyond.
 
 ---
 
@@ -57,16 +58,24 @@ Welcome to my GitHub! I'm a passionate learner currently diving into the world o
 
 <br/>
 
-<!-- Git Certification from SkillUp -->
+<!-- Git + Cloud Computing Certifications (Combined Table) -->
 <table style="border: none; border-collapse: collapse;" cellspacing="0" cellpadding="10">
   <tr>
     <td align="center" style="border: none;">
       <a href="https://simpli-web.app.link/e/ZxbTrH51AUb" target="_blank">
         <img src="https://github.com/kidlatpogi/kidlatpogi/blob/main/assets/certifications/git-certification.png?raw=true" 
-             alt="Git Certification" width="400" />
+             alt="Git Certification" width="350" />
       </a>
       <br/>
       <sub><strong>Git Certification (SkillUp)</strong></sub>
+    </td>
+    <td align="center" style="border: none;">
+      <a href="https://simpli-web.app.link/e/gKaLOY2xCUb" target="_blank">
+        <img src="https://github.com/kidlatpogi/kidlatpogi/blob/main/assets/certifications/cloud-computing-certification.png?raw=true" 
+             alt="Cloud Computing Certification" width="350" />
+      </a>
+      <br/>
+      <sub><strong>Cloud Computing Certification (SkillUp)</strong></sub>
     </td>
   </tr>
 </table>
