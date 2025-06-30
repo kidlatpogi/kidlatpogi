@@ -13,14 +13,12 @@ Welcome to my GitHub! I'm a passionate learner currently diving into the world o
 
 ---
 
+<div align="center">
+
 ## 🏅 Certifications
 
-- ✅ <a href="https://www.credly.com/badges/ec097417-e36a-4642-b03b-df96919ae380/public_url" target="_blank"><strong>ITS - Database Certification</strong></a>  
-  <em>Issued by Certiport via Credly</em>  
-  <em>Date Earned: June 2025</em>  
-
-<!-- Badge Table -->
-<table style="border: none; border-collapse: collapse; margin: 0 auto;" cellspacing="0" cellpadding="0">
+<!-- Top Row: Badge + ITS Certificate -->
+<table style="border: none; border-collapse: collapse;" cellspacing="0" cellpadding="10">
   <tr>
     <td align="center" style="border: none;">
       <img src="https://github.com/kidlatpogi/kidlatpogi/blob/main/assets/certifications/it-specialist-databases-badge.png?raw=true" 
@@ -32,14 +30,6 @@ Welcome to my GitHub! I'm a passionate learner currently diving into the world o
         View on Credly
       </a>
     </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- Certificates Table -->
-<table style="border: none; border-collapse: collapse; margin: 0 auto;" cellspacing="0" cellpadding="0">
-  <tr>
     <td align="center" style="border: none;">
       <a href="https://github.com/kidlatpogi/kidlatpogi/blob/main/assets/certifications/it-specialist-databases-certificate.png?raw=true" target="_blank">
         <img src="https://github.com/kidlatpogi/kidlatpogi/blob/main/assets/certifications/it-specialist-databases-certificate.png?raw=true" 
@@ -48,6 +38,14 @@ Welcome to my GitHub! I'm a passionate learner currently diving into the world o
       <br/>
       <sub><strong>ITS Database Certificate</strong></sub>
     </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Responsive Web Design Certificate -->
+<table style="border: none; border-collapse: collapse;" cellspacing="0" cellpadding="10">
+  <tr>
     <td align="center" style="border: none;">
       <img src="https://github.com/kidlatpogi/kidlatpogi/blob/main/assets/certifications/responsive-web-design-certificate.png?raw=true" 
            alt="Responsive Web Design Certificate" width="400" />
@@ -56,6 +54,24 @@ Welcome to my GitHub! I'm a passionate learner currently diving into the world o
     </td>
   </tr>
 </table>
+
+<br/>
+
+<!-- Git Certification from SkillUp -->
+<table style="border: none; border-collapse: collapse;" cellspacing="0" cellpadding="10">
+  <tr>
+    <td align="center" style="border: none;">
+      <a href="https://simpli-web.app.link/e/ZxbTrH51AUb" target="_blank">
+        <img src="https://github.com/kidlatpogi/kidlatpogi/blob/main/assets/certifications/git-certification.png?raw=true" 
+             alt="Git Certification" width="400" />
+      </a>
+      <br/>
+      <sub><strong>Git Certification (SkillUp)</strong></sub>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
