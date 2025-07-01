@@ -58,13 +58,13 @@ Welcome to my GitHub! I'm a passionate tech enthusiast diving into **web develop
 
 <br/>
 
-<!-- Git + Cloud Computing Certifications (Combined Table) -->
+<!-- Simplilearn Certifications (2 per row) -->
 <table style="border: none; border-collapse: collapse;" cellspacing="0" cellpadding="10">
   <tr>
     <td align="center" style="border: none;">
       <a href="https://simpli-web.app.link/e/ZxbTrH51AUb" target="_blank">
         <img src="https://github.com/kidlatpogi/kidlatpogi/blob/main/assets/certifications/git-certification.png?raw=true" 
-             alt="Git Certification" width="350" />
+             alt="Git Certification" width="400" />
       </a>
       <br/>
       <sub><strong>Git Certification (SkillUp)</strong></sub>
@@ -72,10 +72,23 @@ Welcome to my GitHub! I'm a passionate tech enthusiast diving into **web develop
     <td align="center" style="border: none;">
       <a href="https://simpli-web.app.link/e/gKaLOY2xCUb" target="_blank">
         <img src="https://github.com/kidlatpogi/kidlatpogi/blob/main/assets/certifications/cloud-computing-certification.png?raw=true" 
-             alt="Cloud Computing Certification" width="350" />
+             alt="Cloud Computing Certification" width="400" />
       </a>
       <br/>
       <sub><strong>Cloud Computing Certification (SkillUp)</strong></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border: none;">
+      <a href="https://simpli-web.app.link/e/Y9glztFeEUb" target="_blank">
+        <img src="https://github.com/kidlatpogi/kidlatpogi/blob/main/assets/certifications/dev-ops-certification.png?raw=true" 
+             alt="DevOps Certification" width="400" />
+      </a>
+      <br/>
+      <sub><strong>DevOps Certification (SkillUp)</strong></sub>
+    </td>
+    <td align="center" style="border: none;">
+      <!-- Optional: Leave this cell empty or use it for a future cert -->
     </td>
   </tr>
 </table>
