@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Zeus A.K.A. Kidlat!
 
-Welcome to my GitHub! I'm a passionate tech enthusiast diving into **web development**, **cloud computing**, and **databases**. I enjoy building practical and responsive web projects while continuously exploring new tools and technologies.
+Welcome to my GitHub! I'm a passionate tech enthusiast diving into **web development**, **game development**, and **databases**. I enjoy building practical and responsive web projects while continuously exploring new tools and technologies.
 
 ---
 
