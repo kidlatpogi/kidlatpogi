@@ -99,15 +99,10 @@ Welcome to my GitHub! I'm a passionate tech enthusiast diving into **web develop
 
 ## 🛠️ Technologies & Tools
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=for-the-badge)
+| Frontend | Backend | Tools | Design | Game Dev |
+|----------|---------|-------|--------|---------|
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white&scale=1.3) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white&scale=1.3) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black&scale=1.3) ![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB&scale=1.3) ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=plastic&logo=react&logoColor=61DAFB&scale=1.3) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white&scale=1.3) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=firebase&logoColor=black&scale=1.3) ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white&scale=1.3) | ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white&scale=1.3) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white&scale=1.3) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white&scale=1.3) | ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=plastic&logo=adobephotoshop&logoColor=white&scale=1.3) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=plastic&logo=canva&logoColor=white&scale=1.3) | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=plastic&logo=godotengine&logoColor=white&scale=1.3) ![GDScript](https://img.shields.io/badge/GDScript-FFDD00?style=plastic&logoColor=000000&scale=1.3) |
+
 
 ---
 
