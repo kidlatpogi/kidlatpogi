@@ -1,42 +1,38 @@
-# 👋 Hi, I'm Zeus A.K.A. Kidlat!
+# 👋 Hi, I'm Zeus Angelo Bautista
 
-Welcome to my GitHub! I'm a passionate tech enthusiast diving into **web development**, **game development**, and **databases**. I enjoy building practical and responsive web projects while continuously exploring new tools and technologies.
+Welcome to my GitHub!  
+I’m a **tech enthusiast** who loves crafting clean, responsive, and meaningful digital experiences — from **web apps** and **games** to **databases**.  
+I believe in building *things that work beautifully* — and learning something new every time I do.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 I earned the **ITS - Database Certification** from Certiport.
-- ☁️ Recently completed the **Cloud Computing** and **Git** certifications via SkillUp by Simplilearn.
-- 💻 Actively learning at <a href="https://www.freecodecamp.org/kidlat" target="_blank">freeCodeCamp</a> and building projects as I grow.
-- 🔨 I love turning code into clean, user-friendly designs using HTML, CSS, and more.
-- 📚 Always curious — from web dev to cloud systems and beyond.
+- 🎓 Certified **IT Specialist in Databases** (Certiport)  
+- ☁️ Completed **Cloud Computing** and **Git** certifications via SkillUp by Simplilearn  
+- 💻 Continuously learning and building through [freeCodeCamp](https://www.freecodecamp.org/kidlat)  
+- 🎨 I turn lines of code into sleek, user-friendly designs using HTML, CSS, and modern frameworks  
+- 🔍 Always exploring new tech — from web stacks to DevOps tools to game engines  
+
+> *“Curiosity is my debugging tool.”*
 
 ---
 
+## 🥇 Certifications
+
 <div align="center">
 
-## 🏅 Certifications
-
-<!-- Top Row: Badge + ITS Certificate -->
-<table style="border: none; border-collapse: collapse;" cellspacing="0" cellpadding="10">
+<table>
   <tr>
-    <td align="center" style="border: none;">
-      <img src="https://github.com/kidlatpogi/kidlatpogi/blob/main/assets/certifications/it-specialist-databases-badge.png?raw=true" 
-           alt="ITS Database Badge" width="150"/>
-      <br/>
-      <sub><strong>Credly Badge</strong></sub>
-      <br/>
-      <a href="https://www.credly.com/badges/ec097417-e36a-4642-b03b-df96919ae380/public_url" target="_blank">
-        View on Credly
-      </a>
+    <td align="center">
+      <img src="https://github.com/kidlatpogi/kidlatpogi/blob/main/assets/certifications/it-specialist-databases-badge.png?raw=true" width="150" alt="ITS Database Badge"/><br/>
+      <sub><strong>Credly Badge</strong></sub><br/>
+      <a href="https://www.credly.com/badges/ec097417-e36a-4642-b03b-df96919ae380/public_url" target="_blank">View on Credly</a>
     </td>
-    <td align="center" style="border: none;">
+    <td align="center">
       <a href="https://github.com/kidlatpogi/kidlatpogi/blob/main/assets/certifications/it-specialist-databases-certificate.png?raw=true" target="_blank">
-        <img src="https://github.com/kidlatpogi/kidlatpogi/blob/main/assets/certifications/it-specialist-databases-certificate.png?raw=true" 
-             alt="ITS Database Certificate" width="350" />
-      </a>
-      <br/>
+        <img src="https://github.com/kidlatpogi/kidlatpogi/blob/main/assets/certifications/it-specialist-databases-certificate.png?raw=true" width="350" alt="ITS Database Certificate"/>
+      </a><br/>
       <sub><strong>ITS Database Certificate</strong></sub>
     </td>
   </tr>
@@ -44,13 +40,10 @@ Welcome to my GitHub! I'm a passionate tech enthusiast diving into **web develop
 
 <br/>
 
-<!-- Responsive Web Design Certificate -->
-<table style="border: none; border-collapse: collapse;" cellspacing="0" cellpadding="10">
+<table>
   <tr>
-    <td align="center" style="border: none;">
-      <img src="https://github.com/kidlatpogi/kidlatpogi/blob/main/assets/certifications/responsive-web-design-certificate.png?raw=true" 
-           alt="Responsive Web Design Certificate" width="400" />
-      <br/>
+    <td align="center">
+      <img src="https://github.com/kidlatpogi/kidlatpogi/blob/main/assets/certifications/responsive-web-design-certificate.png?raw=true" width="400" alt="Responsive Web Design Certificate"/><br/>
       <sub><strong>Responsive Web Design Certificate</strong></sub>
     </td>
   </tr>
@@ -58,37 +51,30 @@ Welcome to my GitHub! I'm a passionate tech enthusiast diving into **web develop
 
 <br/>
 
-<!-- Simplilearn Certifications (2 per row) -->
-<table style="border: none; border-collapse: collapse;" cellspacing="0" cellpadding="10">
+<table>
   <tr>
-    <td align="center" style="border: none;">
+    <td align="center">
       <a href="https://simpli-web.app.link/e/ZxbTrH51AUb" target="_blank">
-        <img src="https://github.com/kidlatpogi/kidlatpogi/blob/main/assets/certifications/git-certification.png?raw=true" 
-             alt="Git Certification" width="400" />
-      </a>
-      <br/>
+        <img src="https://github.com/kidlatpogi/kidlatpogi/blob/main/assets/certifications/git-certification.png?raw=true" width="400" alt="Git Certification"/>
+      </a><br/>
       <sub><strong>Git Certification (SkillUp)</strong></sub>
     </td>
-    <td align="center" style="border: none;">
+    <td align="center">
       <a href="https://simpli-web.app.link/e/gKaLOY2xCUb" target="_blank">
-        <img src="https://github.com/kidlatpogi/kidlatpogi/blob/main/assets/certifications/cloud-computing-certification.png?raw=true" 
-             alt="Cloud Computing Certification" width="400" />
-      </a>
-      <br/>
+        <img src="https://github.com/kidlatpogi/kidlatpogi/blob/main/assets/certifications/cloud-computing-certification.png?raw=true" width="400" alt="Cloud Computing Certification"/>
+      </a><br/>
       <sub><strong>Cloud Computing Certification (SkillUp)</strong></sub>
     </td>
   </tr>
   <tr>
-    <td align="center" style="border: none;">
+    <td align="center">
       <a href="https://simpli-web.app.link/e/Y9glztFeEUb" target="_blank">
-        <img src="https://github.com/kidlatpogi/kidlatpogi/blob/main/assets/certifications/dev-ops-certification.png?raw=true" 
-             alt="DevOps Certification" width="400" />
-      </a>
-      <br/>
+        <img src="https://github.com/kidlatpogi/kidlatpogi/blob/main/assets/certifications/dev-ops-certification.png?raw=true" width="400" alt="DevOps Certification"/>
+      </a><br/>
       <sub><strong>DevOps Certification (SkillUp)</strong></sub>
     </td>
-    <td align="center" style="border: none;">
-      <!-- Optional: Leave this cell empty or use it for a future cert -->
+    <td align="center">
+      <!-- Reserved for future certifications -->
     </td>
   </tr>
 </table>
@@ -100,9 +86,8 @@ Welcome to my GitHub! I'm a passionate tech enthusiast diving into **web develop
 ## 🛠️ Technologies & Tools
 
 | Frontend | Backend | Tools | Design | Game Dev |
-|----------|---------|-------|--------|---------|
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white&scale=1.3) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white&scale=1.3) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black&scale=1.3) ![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB&scale=1.3) ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=plastic&logo=react&logoColor=61DAFB&scale=1.3) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white&scale=1.3) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=firebase&logoColor=black&scale=1.3) ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white&scale=1.3) | ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white&scale=1.3) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white&scale=1.3) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white&scale=1.3) | ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=plastic&logo=adobephotoshop&logoColor=white&scale=1.3) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=plastic&logo=canva&logoColor=white&scale=1.3) | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=plastic&logo=godotengine&logoColor=white&scale=1.3) ![GDScript](https://img.shields.io/badge/GDScript-FFDD00?style=plastic&logoColor=000000&scale=1.3) |
-
+|----------|---------|-------|--------|-----------|
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=plastic&logo=react&logoColor=61DAFB) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=firebase&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white) | ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=plastic&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=plastic&logo=canva&logoColor=white) | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=plastic&logo=godotengine&logoColor=white) ![GDScript](https://img.shields.io/badge/GDScript-FFDD00?style=plastic&logoColor=000000) |
 
 ---
 
@@ -113,7 +98,7 @@ Welcome to my GitHub! I'm a passionate tech enthusiast diving into **web develop
 </div>
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidlatpogi&layout=compact&theme=github_dark" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidlatpogi&layout=compact&theme=github_dark" width="49%" />
 </div>
 
 ---
@@ -130,10 +115,12 @@ Welcome to my GitHub! I'm a passionate tech enthusiast diving into **web develop
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect with Me
 
-- ✉️ Email: *bautistaangelozeus17@gmail.com*  
-- 🌐 Portfolio: *[Add later when ready]*  
-- 💻 LinkedIn: <a href="https://www.linkedin.com/in/zeus-angelo-bautista" target="_blank">zeus-angelo-bautista</a>
+*Currently open to internship and entry-level roles where I can grow, contribute, and code with purpose.*
 
-Thanks for visiting! Let’s keep learning and building. 🚀
+- ✉️ **Email:** [bautistaangelozeus17@gmail.com](mailto:bautistaangelozeus17@gmail.com)  
+- 🌐 **Portfolio:** [zeusbautista.site](https://www.zeusbautista.site/)  
+- 💻 **LinkedIn:** [Zeus Angelo Bautista](https://www.linkedin.com/in/zeus-angelo-bautista)  
+
+> Thanks for visiting — let’s build something awesome together. 🚀
