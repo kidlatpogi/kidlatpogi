@@ -25,13 +25,13 @@ I believe in building *things that work beautifully* — and learning something 
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/kidlatpogi/kidlatpogi/blob/main/assets/certifications/it-specialist-databases-badge.png?raw=true" width="150" alt="ITS Database Badge"/><br/>
+      <img src="https://github.com/kidlatpogi/kidlatpogi/blob/main/assets/certifications/it-specialist-databases-badge.png?raw=true" width="110" alt="ITS Database Badge"/><br/>
       <sub><strong>Credly Badge</strong></sub><br/>
       <a href="https://www.credly.com/badges/ec097417-e36a-4642-b03b-df96919ae380/public_url" target="_blank">View on Credly</a>
     </td>
     <td align="center">
       <a href="https://github.com/kidlatpogi/kidlatpogi/blob/main/assets/certifications/it-specialist-databases-certificate.png?raw=true" target="_blank">
-        <img src="https://github.com/kidlatpogi/kidlatpogi/blob/main/assets/certifications/it-specialist-databases-certificate.png?raw=true" width="350" alt="ITS Database Certificate"/>
+        <img src="https://github.com/kidlatpogi/kidlatpogi/blob/main/assets/certifications/it-specialist-databases-certificate.png?raw=true" width="250" alt="ITS Database Certificate"/>
       </a><br/>
       <sub><strong>ITS Database Certificate</strong></sub>
     </td>
@@ -43,7 +43,7 @@ I believe in building *things that work beautifully* — and learning something 
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/kidlatpogi/kidlatpogi/blob/main/assets/certifications/responsive-web-design-certificate.png?raw=true" width="400" alt="Responsive Web Design Certificate"/><br/>
+      <img src="https://github.com/kidlatpogi/kidlatpogi/blob/main/assets/certifications/responsive-web-design-certificate.png?raw=true" width="300" alt="Responsive Web Design Certificate"/><br/>
       <sub><strong>Responsive Web Design Certificate</strong></sub>
     </td>
   </tr>
@@ -55,13 +55,13 @@ I believe in building *things that work beautifully* — and learning something 
   <tr>
     <td align="center">
       <a href="https://simpli-web.app.link/e/ZxbTrH51AUb" target="_blank">
-        <img src="https://github.com/kidlatpogi/kidlatpogi/blob/main/assets/certifications/git-certification.png?raw=true" width="400" alt="Git Certification"/>
+        <img src="https://github.com/kidlatpogi/kidlatpogi/blob/main/assets/certifications/git-certification.png?raw=true" width="300" alt="Git Certification"/>
       </a><br/>
       <sub><strong>Git Certification (SkillUp)</strong></sub>
     </td>
     <td align="center">
       <a href="https://simpli-web.app.link/e/gKaLOY2xCUb" target="_blank">
-        <img src="https://github.com/kidlatpogi/kidlatpogi/blob/main/assets/certifications/cloud-computing-certification.png?raw=true" width="400" alt="Cloud Computing Certification"/>
+        <img src="https://github.com/kidlatpogi/kidlatpogi/blob/main/assets/certifications/cloud-computing-certification.png?raw=true" width="300" alt="Cloud Computing Certification"/>
       </a><br/>
       <sub><strong>Cloud Computing Certification (SkillUp)</strong></sub>
     </td>
@@ -69,7 +69,7 @@ I believe in building *things that work beautifully* — and learning something 
   <tr>
     <td align="center">
       <a href="https://simpli-web.app.link/e/Y9glztFeEUb" target="_blank">
-        <img src="https://github.com/kidlatpogi/kidlatpogi/blob/main/assets/certifications/dev-ops-certification.png?raw=true" width="400" alt="DevOps Certification"/>
+        <img src="https://github.com/kidlatpogi/kidlatpogi/blob/main/assets/certifications/dev-ops-certification.png?raw=true" width="300" alt="DevOps Certification"/>
       </a><br/>
       <sub><strong>DevOps Certification (SkillUp)</strong></sub>
     </td>
