@@ -94,23 +94,7 @@ I believe in building *things that work beautifully* — and learning something 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kidlatpogi&show_icons=true&theme=github_dark" width="49%" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidlatpogi&layout=compact&theme=github_dark" width="49%" />
-</div>
-
----
-
-## 🧾 Developer Card
-
-<div align="center">
-  <a href="https://app.daily.dev/zeusbautista" target="_blank">
-    <img src="https://api.daily.dev/devcards/v2/d6vYD3X0UxN3NFta2gVQy.png?r=2ii&type=wide" 
-         width="652" 
-         alt="Zeus Bautista's Dev Card"/>
-  </a>
 </div>
 
 ---
