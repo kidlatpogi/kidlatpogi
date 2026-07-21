@@ -48,10 +48,9 @@ I thrive on building scalable, cross-platform solutions. Here is the tech arsena
 ---
 
 ## GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kidlatpogi&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidlatpogi&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api?username=kidlatpogi&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs?username=kidlatpogi&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
 </div>
 
 ---
