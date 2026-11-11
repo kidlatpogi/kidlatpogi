@@ -26,7 +26,7 @@ I thrive on building scalable, cross-platform solutions. Here is the tech arsena
 </div>
 
 <div align="center">
-  <img src="koi/koi.svg" width="100%" alt="Git Koi" />
+  <img src="koi/koi.gif" width="256" alt="Git Koi" />
 </div>
 
 ---
