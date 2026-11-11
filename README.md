@@ -25,8 +25,9 @@ I thrive on building scalable, cross-platform solutions. Here is the tech arsena
   <img src="https://github-readme-stats.shion.dev/api/top-langs?username=kidlatpogi&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
 </div>
 
-<!--START_SECTION:git-koi-->
-<!--END_SECTION:git-koi-->
+<div align="center">
+  <img src="koi/koi.svg" width="100%" alt="Git Koi" />
+</div>
 
 ---
 
