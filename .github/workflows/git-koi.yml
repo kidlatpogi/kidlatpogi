@@ -18,4 +18,4 @@ jobs:
       - name: git-profile-koi
         uses: yalongwastaken/git-koi@v1.0.2
         with:
-          GH_USERNAME: ${{ github.repository_owner }}
+          login: ${{ github.repository_owner }}
