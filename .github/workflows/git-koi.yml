@@ -1,0 +1,20 @@
+name: Update Git Koi Profile
+
+on:
+  schedule:
+    # Runs daily at midnight UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows manual trigger from the Actions tab
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: git-profile-koi
+        uses: yalongwastaken/git-koi@v1.0.2
