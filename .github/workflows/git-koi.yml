@@ -18,13 +18,4 @@ jobs:
       - name: git-profile-koi
         uses: yalongwastaken/git-koi@v1.0.2
         with:
-          # Pass your github username so it generates properly for your profile
           GH_USERNAME: ${{ github.repository_owner }}
-
-      - name: Commit and push changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git status
-          git add .
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update git-koi pixel art" && git push)
